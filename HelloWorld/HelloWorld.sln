@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		VersoRasphberry|ARM = VersoRasphberry|ARM
+		VersoRasphberry|x64 = VersoRasphberry|x64
+		VersoRasphberry|x86 = VersoRasphberry|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.Debug|ARM.ActiveCfg = Debug|ARM
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.Debug|ARM.Build.0 = Debug|ARM
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.Debug|ARM.Deploy.0 = Debug|ARM
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.Debug|x64.ActiveCfg = Debug|x64
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.Debug|x64.Build.0 = Debug|x64
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.Debug|x64.Deploy.0 = Debug|x64
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.Debug|x86.ActiveCfg = Debug|x86
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.Debug|x86.Build.0 = Debug|x86
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.Debug|x86.Deploy.0 = Debug|x86
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.Release|ARM.ActiveCfg = Release|ARM
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.Release|ARM.Build.0 = Release|ARM
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.Release|ARM.Deploy.0 = Release|ARM
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.Release|x64.ActiveCfg = Release|x64
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.Release|x64.Build.0 = Release|x64
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.Release|x64.Deploy.0 = Release|x64
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.Release|x86.ActiveCfg = Release|x86
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.Release|x86.Build.0 = Release|x86
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.Release|x86.Deploy.0 = Release|x86
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.VersoRasphberry|ARM.ActiveCfg = VersoRasphberry|ARM
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.VersoRasphberry|ARM.Build.0 = VersoRasphberry|ARM
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.VersoRasphberry|ARM.Deploy.0 = VersoRasphberry|ARM
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.VersoRasphberry|x64.ActiveCfg = VersoRasphberry|x64
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.VersoRasphberry|x64.Build.0 = VersoRasphberry|x64
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.VersoRasphberry|x64.Deploy.0 = VersoRasphberry|x64
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.VersoRasphberry|x86.ActiveCfg = VersoRasphberry|x86
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.VersoRasphberry|x86.Build.0 = VersoRasphberry|x86
+		{BACD369E-CED9-4AC9-8B37-EFB95CCC8E54}.VersoRasphberry|x86.Deploy.0 = VersoRasphberry|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
